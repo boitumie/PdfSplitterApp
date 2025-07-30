@@ -1,0 +1,2 @@
+C:\Users\BoitumeloMaphuruma\Documents\PdfSplitterApp\bin\Release\net6.0-windows\win-x64\publish\PdfSplitterApp.pdb
+C:\Users\BoitumeloMaphuruma\Documents\PdfSplitterApp\bin\Release\net6.0-windows\win-x64\publish\PdfSplitterApp.exe
